@@ -13,9 +13,9 @@ I'm building a simulated corporate Active Directory environment to learn identit
 - Document onboarding and offboarding
 
 ## Progress
-- [] Made repository
-- [] Planned lab parameters
-- [] Active directory installed
+- [x] Made repository
+- [x] Planned lab execution
+- [x] Active directory installed
 - [] Users created
 - [] Groups set up
 - [] Onboarding process written
